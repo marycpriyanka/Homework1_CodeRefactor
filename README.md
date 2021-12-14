@@ -13,7 +13,9 @@ The improvements done are:
 - Added proper comments to both HTML file and stylesheet.
 
 
-
+![screenshot1](https://github.com/marycpriyanka/Homework1_CodeRefactor/blob/main/assets/images/screenshots/screenshot1.JPG)
+![screenshot2](https://github.com/marycpriyanka/Homework1_CodeRefactor/blob/main/assets/images/screenshots/screenshot2.JPG)
+![screenshot3](https://github.com/marycpriyanka/Homework1_CodeRefactor/blob/main/assets/images/screenshots/screenshot3.JPG)
 
 
 ## Find the deployed application here: 
