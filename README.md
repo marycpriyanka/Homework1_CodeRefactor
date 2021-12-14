@@ -11,3 +11,10 @@ The improvements done are:
 - In stylesheet, CSS selectors are organized to follow  semantic structure of HTML elements.
 - CSS properties are consolidated to a single selector wherever possible. e.g. The CSS properties of img and h2 in each of the 3 sections of the class content are now consolidated into a single selector .content h2 and .content img .
 - Added proper comments to both HTML file and stylesheet.
+
+
+
+
+
+## Find the deployed application here: 
+https://marycpriyanka.github.io/Homework1_CodeRefactor/
