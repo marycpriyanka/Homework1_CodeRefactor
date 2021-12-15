@@ -9,11 +9,13 @@ The improvements done are:
 - Added a descriptive title to the page.
 - When divs were replaced by semantic HTML tags, the corresponding selectors are updated in the stylesheet. e.g. .header (class selector) is changed to header (element selector).
 - In stylesheet, CSS selectors are organized to follow  semantic structure of HTML elements.
-- CSS properties are consolidated to a single selector wherever possible. e.g. The CSS properties of img and h2 in each of the 3 sections of the class content are now consolidated into a single selector .content h2 and .content img .
+- CSS properties are consolidated to a single selector wherever possible. e.g. The CSS properties of img and h2 in each of the 3 sections of the class content are now consolidated into a single selector .content h2 and .content img , respectively.
 - Added proper comments to both HTML file and stylesheet.
 
 
-
+![screenshot1](https://github.com/marycpriyanka/Homework1_CodeRefactor/blob/main/assets/images/screenshots/screenshot1.JPG)
+![screenshot2](https://github.com/marycpriyanka/Homework1_CodeRefactor/blob/main/assets/images/screenshots/screenshot2.JPG)
+![screenshot3](https://github.com/marycpriyanka/Homework1_CodeRefactor/blob/main/assets/images/screenshots/screenshot3.JPG)
 
 
 ## Find the deployed application here: 
